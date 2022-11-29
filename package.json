@@ -1,0 +1,26 @@
+{
+  "name": "docs_sadpredu",
+  "version": "1.0.0",
+  "description": "Veja, esse é o Kalo Ren To. Tudo o que ele anceia é __\"Pls Become Funny\"__",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sadpreduu/markdown_tests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sadpreduu/markdown_tests/issues"
+  },
+  "homepage": "https://github.com/sadpreduu/markdown_tests#readme",
+  "devDependencies": {
+    "eslint": "^8.25.0"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3"
+  }
+}
