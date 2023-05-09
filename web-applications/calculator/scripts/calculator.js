@@ -1,3 +1,3 @@
 
-let calculator = new CalcControler();
+window.calculator = new CalcControler();
 
