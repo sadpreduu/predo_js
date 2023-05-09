@@ -1,20 +1,23 @@
+
 class CalcControler {
 
     constructor(){
 
         this._displayCalc = "0"
-        this.currentDate;
-        this.initalize();
+        this._currentDate;
+        this.initialize();
 
     }
 
-    initalize(){
+    initialize(){
 
         let displayCalcEl = document.querySelector("#display");
         let dateEl = document.querySelector("#data");
         let timeEl = document.querySelector("#hora");
 
-        displayCalcEl.innerHTML
+        displayCalcEl.innerHTML = "4567";
+        dateEl.innerHTML = "01/05/2023";
+        timeEl.innerHTML = "00:00";
 
     }
 
